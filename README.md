@@ -2,13 +2,13 @@
 
 A webpage where you can write and save secrets anonymously.
 
-**_Features:_**
+### Features:
 * Authenication(OAuth 2.0)
-* Signup with Google and login with Google
-* Implentmented NOSQL mongoDB with mongoose.
+* Signup and login with Google
+* Database connectivity.
 * Build with the help of Passport.js.
 
-**_Tools used_:**
+### Tools Implemented:
 * HTML 5
 * CSS 3
 * BootStrap 5
