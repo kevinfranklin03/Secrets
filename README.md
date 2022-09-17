@@ -1,4 +1,4 @@
-**SECRETS**
+# SECRET
 
 A webpage where you can write and save secrets anonymously.
 
